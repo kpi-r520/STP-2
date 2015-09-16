@@ -15,5 +15,5 @@
 Еще в работе ...
 
 [1]: <https://github.com/kpi-r520/STP/blob/master/Topics.md>
-[l1.1]: <http://>
+[l1.1]: <https://github.com/kpi-r520/STP/blob/master/lab-1-1.md>
 [l1.2]: <http://>
