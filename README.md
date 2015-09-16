@@ -14,6 +14,6 @@
 ### Часть 2. Разработка мобильных приложений.
 Еще в работе ...
 
-[1]: <http://>
+[1]: <https://github.com/kpi-r520/STP/blob/master/Topics.md>
 [l1.1]: <http://>
 [l1.2]: <http://>
