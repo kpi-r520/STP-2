@@ -29,6 +29,7 @@
 * Выполнение StyleCop настраивается при помощи соответствующего [NuGet Package][3]
 * Для расширения правил именования StyleCop рекомендуется использовать [StyleCopPlus][4]
 * И внедрение последнего в билд процесс при помощи [Nuget Package][5]
+* Для отображения статуса билда на Readme.md - [link][6]
 
 **По FxCop**
 
@@ -45,3 +46,4 @@
 [3]: <http://www.nuget.org/packages/StyleCop.MSBuild/>
 [4]: <https://stylecopplus.codeplex.com/>
 [5]: <http://www.nuget.org/packages/StyleCopPlus.MSBuild/>
+[6]: <http://www.appveyor.com/docs/status-badges>
