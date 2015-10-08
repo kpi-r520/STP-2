@@ -82,20 +82,21 @@
 ```
 public class PageFormer
 {
-void FormHeaders() { … }
-void FormFooters() { … }
-void FormAddedFiles() { … }
-abstract void FormContent();
-void FormPage()
-{
-FormHeaders();
-FormContent();
-FormFooters();
-FormAddedFiles();
-}}
+	void FormHeaders() { … }
+	void FormFooters() { … }
+	void FormAddedFiles() { … }
+	abstract void FormContent();
+	void FormPage()
+	{
+		FormHeaders();
+		FormContent();
+		FormFooters();
+		FormAddedFiles();
+	}
+}
 public class AspNetCompiler : PageFormer
 {
-override void FormContent() { … }
+	override void FormContent() { … }
 }
 ```
 
